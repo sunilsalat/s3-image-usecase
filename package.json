@@ -8,5 +8,12 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.363.0",
+    "@aws-sdk/s3-request-presigner": "^3.363.0",
+    "dotenv": "^16.3.1",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.32.1"
+  }
 }
